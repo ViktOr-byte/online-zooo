@@ -7,9 +7,9 @@
     font-family: "Roboto", sans-serif;
     font-style: normal;
     box-sizing: border-box;
-    }
+ }
 button{
-        cursor: pointer;
+    cursor: pointer;
 }
 .but:hover{
     background: #E47209;
@@ -19,6 +19,8 @@ main {
     font-family: 'Roboto';
     font-style: normal;
 }
+li a:hover{
+    color:#F9804B;
 h3{
     font-family: 'Roboto';
     font-style: normal;
